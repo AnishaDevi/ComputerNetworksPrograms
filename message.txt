@@ -1,0 +1,15 @@
+TCP, or Transmission Control Protocol, is a fundamental communication
+protocol in computer networks. Operating at the transport layer,
+TCP ensures reliable and ordered data delivery between devices over a
+network. It establishes a connection before data exchange, uses
+acknowledgments and retransmissions for reliability, incorporates
+flow control to manage data flow, and guarantees the correct order
+of data delivery. TCP is crucial for applications requiring accuracy,
+such as web browsing, email, and file transfer. It works alongside the
+Internet Protocol (IP) in the TCP/IPprotocol suite, forming the basis
+ for internet communication.
+
+
+
+
+
