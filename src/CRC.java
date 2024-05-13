@@ -39,7 +39,8 @@ public class CRC {
         message = sc.nextLine();
         System.out.println("Enter the generator bits");
         generator = sc.nextLine();
-
+        //data = new int[message.length()];
+        //divisor = new int[generator.length()];
         for (int i = 0; i < message.length(); i++)
             data[i] = Integer.parseInt(message.charAt(i) + "");
         for (int i = 0; i < generator.length(); i++)
